@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu:wght@300&display=swap');
+*{
+
+font-family: 'Ubuntu', sans-serif;
+}
+body {
+    background-color:#030c07;font-family: 'Montserrat', sans-serif;
+    text-align: center; color: #8389e2;
+}
+#secondry{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover {  color: rgb(17, 173, 14) !important; background-color:  #122219 ;
+}
+  
+img {
+    display: block;
+    margin: auto;
+    border: 2px solid cyan;
+    border-radius:12px ;
+}
+
+h1 {
+    color: gold;
+    text-align: center;
+}
+#secondry2{
+    color: #d0c535;
+}
+.spacing{
+    margin-left: 5px;
+}
+.margin4nav{
+    margin-bottom: 80px;
+}
+.margin4p{
+    margin-bottom: 300px;
+}
+.margin4socials{
+    margin-bottom: 300px;
+}
+.wordspacing4socials{
+    word-spacing: 5px;
+    letter-spacing: 1.5px;
+}
+.project1{
+    margin-bottom: 100px;
+    font-size: 1.3em;
+    color: lime;
+}
