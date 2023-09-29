@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Montserrat&family=Ubuntu:wght@300&display=swap');
+body {
+
+    background-color: #141316;
+    font-family: Ubuntu;
+}
+
+header {
+    font-size: 1.2em;
+}
+
+.gym {
+    display: inline-block;
+    color: #698cb0;
+    text-decoration: underline;
+    position: absolute;
+    left: 60px;
+    top: 20px;
+}
+
+.navbar {
+    color: #1a1e1c;
+    display: flex;
+    width: 50%;
+    margin: 29px auto;
+    margin-left: 680px;
+    word-spacing: 5px;
+
+}
+
+
+.home {
+    color: peachpuff;
+    text-decoration: none;
+    word-spacing: 50px;
+    letter-spacing: 1px;
+    text-decoration: underline;
+}
+
+.classes {
+    color: peachpuff;
+    text-decoration: none;
+    word-spacing: 5px;
+    letter-spacing: 1px;
+    text-decoration: underline;
+}
+
+.abtus {
+    color: peachpuff;
+    text-decoration: none;
+    word-spacing: 5px;
+    margin-right: 130px;
+    text-decoration: underline;
+
+}
+
+.member {
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    word-spacing: 5px;
+    padding: 5px 5px 5px 5px;
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: red;
+    transition: 0.3s ease-in-out;
+
+}
+
+.navbar a:last-child:hover {
+    color: black !important;
+}
+
+.colorlib a:hover {
+    color: rgb(163, 141, 122);
+    /* background-color: #3b3841; */
+}
+
+.colorlib a:last-child:hover {
+    color: rgb(163, 141, 122) !important;
+}
+
+.schedules {
+    color: peachpuff;
+    text-decoration: none;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+
+.news {
+    color: peachpuff;
+    text-decoration: none;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+.main{
+    font-family: 'Black Ops One', cursive;
+    color: skyblue;
+    margin-top: 15px;
+    margin-left: 11%;
+    font-size: 1.7em;
+    display: inline-block;
+    padding-bottom: 100px;
+    text-align: justify;
+}
+.content{
+    margin-left: 90px;
+    margin-top: 40px;
+    display: inline-block;
+}
+
+.form input{
+    text-align: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+
+.container {
+    border: 2px solid white;  
+    margin-top: 450px;
+    width: 33%;
+    border-radius: 28px;
+   margin-left: 460px;
+    display: inline-block;
+}
+.container h1 {
+    text-align: center;
+}
+
+.container button {
+    display: block;
+    width: 74%;
+    margin: 20px auto;
+}
+.form-group input {
+    font-family: 'Baloo Bhai', cursive;
+    text-align: center;
+    display: block;
+    width: 300px;
+    padding: 1px;
+    border: 2px solid black;
+    margin: 11px auto;
+    font-size: 20px;
+    border-radius: 8px;
+}
+.form-group{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+.img2{
+    float: right;
+    margin-right: 150px;
+    margin-top: 40px ;
+}
